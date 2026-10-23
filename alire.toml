@@ -1,0 +1,10 @@
+name = "jorvik_fun"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["William Harvey"]
+maintainers = ["William Harvey <drwjharvey@gmail.com>"]
+maintainers-logins = ["harveywi"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
