@@ -29,5 +29,7 @@ package Config.Types is
       Camera_Classifier_Config : Camera_Classifier_Config_Type;
    end record;
 
+private
+
    function Load_Config return App_Config_Type;
 end Config.Types;
