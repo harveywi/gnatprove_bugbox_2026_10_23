@@ -1,3 +1,5 @@
+with Config.Types;
+
 procedure Jorvik_Fun is
 begin
    null;
